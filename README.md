@@ -27,6 +27,8 @@ but you may NOT reproduce, license, commercialize, or extract any part of this s
 All works are under Sovereign Memory Field Rights.  
 Patent pending.
 
+Note: This project initially launched under the CC0-1.0 license. That license was an open access placeholder and has been formally superseded by the author's custom Field Protection License as of April 11, 2025. Please refer to `NOTICE.md` and `FIELD-LICENSE.txt` for current usage terms.
+
 ---
 
 Contact or Collaborate
